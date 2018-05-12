@@ -1,0 +1,29 @@
+_repo: The-Battle-of-Spring-Hill-Tennesseeread-after-the-stated-meeting-held-February-2d-1907_24740
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shellenberger, John K.
+    gutenberg_agent_id: '26709'
+    url: http://www.gutenberg.org/2009/agents/26709
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2008-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spring Hill, Battle of, Spring Hill, Maury County, Tenn., 1864'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Campaigns'
+- !lcc 'E456'
+- !lcsh 'Tennessee -- History'
+title: 'The Battle of Spring Hill, Tennessee
+
+  read after the stated meeting held February 2d, 1907'
+url: http://www.gutenberg.org/ebooks/24740

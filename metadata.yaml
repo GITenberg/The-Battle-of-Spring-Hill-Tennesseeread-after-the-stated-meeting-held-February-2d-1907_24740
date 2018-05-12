@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26709'
     url: http://www.gutenberg.org/2009/agents/26709
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24740#The-Battle-of-Spring-Hill-Tennesseeread-after-the-stated-meeting-held-February-2d-1907
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2008-03-03'
 gutenberg_type: Text
